@@ -2,7 +2,7 @@ import React from "react";
 
 function Herosec(){
     return(
-<div className='bg-[#FEDE02] flex w-full gap-10 px-40 py-8 justify-between text-[#444444] items-center '>
+<div id = "home" className='bg-[#FEDE02] flex w-full gap-10 px-40 py-8 justify-between text-[#444444] items-center '>
     <div className="flex flex-col gap-4">
         <p className="text-xl md:text-5xl font-extrabold text-[#555555] ">Scribbler - JavaScript<br/> Notebook, Online Compiler <br/> & Editor</p>
 

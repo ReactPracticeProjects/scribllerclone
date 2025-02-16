@@ -2,7 +2,7 @@ import React from 'react'
 
 function Overview() {
   return (
-    <div className='h-[110vh] bg-bg text-secondary p-20'>
+    <div id="docs" className='h-[110vh] bg-bg text-secondary p-20'>
         <div className='border-b border-b-secondary pb-3'>
             <p className='font-semibold text-black text-5xl'>Overview.</p>
             <p className=''>Explore and experiment with JavaScript, get instant output to text and iterate.</p>

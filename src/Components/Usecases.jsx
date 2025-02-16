@@ -53,7 +53,7 @@ function Usecases(){
 
 
     return(
-        <div className="bg-[#F9F9F9] py-20 w-full ">
+        <div id = "usecases" className="bg-[#F9F9F9] py-20 w-full ">
 
 
             <div className="flex flex-col items-center pt-5 pb-24">

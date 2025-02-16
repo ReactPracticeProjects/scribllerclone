@@ -35,7 +35,7 @@ function Feature(){
 
     return(
 
-        <div className="h-full pt-25 bg-[#F9F9F9]">
+        <div id="features" className="h-full pt-25 bg-[#F9F9F9]">
             <div className="flex flex-col items-center gap-4">
                 <p className="text-[#FEDE02] uppercase font-semibold ">Experiment in JavaScript with Ease</p>
  

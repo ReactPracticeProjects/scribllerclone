@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='bg-buttonbg h-[55vh] p-20 flex justify-between'>
+    <div id="contact" className='bg-buttonbg h-[55vh] p-20 flex justify-between'>
       
       <div className='w-[40%]'>
         <img className="w-[200px]" src="logo.png" alt="" />

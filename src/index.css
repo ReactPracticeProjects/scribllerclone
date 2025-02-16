@@ -6,3 +6,7 @@
     --color-buttonbg: #081828;
     --color-bg: #f9f9f9;
 }
+
+html{
+    scroll-behavior: smooth;
+}
